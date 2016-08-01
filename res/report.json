@@ -1,0 +1,253 @@
+{
+    "get_pics": {
+        "count": 2679,
+        "time": 349.21699690818787
+    },
+    "list_directory": {
+        "count": 2679,
+        "time": 342.7379903793335
+    },
+    "area": {
+        "count": 388,
+        "time": 20.37100100517273
+    },
+    "get_image_dict": {
+        "count": 2679,
+        "time": 345.4709885120392
+    },
+    "get_team_dict": {
+        "count": 388,
+        "time": 399.09699964523315
+    },
+    "temp_get_image_dict": {
+        "count": 6250,
+        "time": 2.649998426437378
+    },
+    "deep_dict": {
+        "count": 2679,
+        "time": 349.3039996623993
+    },
+    "get_config": {
+        "count": 2679,
+        "time": 1.3179998397827148
+    },
+    "__init__": {
+        "count": 2679,
+        "time": 1.7490062713623047
+    },
+    "iter_directory": {
+        "count": 0,
+        "time": 0
+    },
+    "analyze": {
+        "count": 388,
+        "time": 377.6679973602295
+    },
+    "temp_get_ali_conf": {
+        "count": 2679,
+        "time": 1.3919994831085205
+    },
+    "temp_url_for_get_image": {
+        "count": 6250,
+        "time": 2.5709991455078125
+    }
+}{
+    "iter_directory": {
+        "count": 2679,
+        "time": 0.018000125885009766
+    },
+    "temp_get_image_dict": {
+        "count": 6250,
+        "time": 2.6120007038116455
+    },
+    "get_image_dict": {
+        "count": 2679,
+        "time": 339.8669991493225
+    }
+}{
+    "get_pics": {
+        "count": 2679,
+        "time": 405.7529995441437
+    },
+    "area": {
+        "count": 388,
+        "time": 18.913994789123535
+    },
+    "get_team_dict": {
+        "count": 388,
+        "time": 454.9040005207062
+    },
+    "temp_get_image_dict": {
+        "count": 6250,
+        "time": 2.257997989654541
+    },
+    "deep_dict": {
+        "count": 2679,
+        "time": 405.81999945640564
+    },
+    "get_config": {
+        "count": 2679,
+        "time": 0.920996904373169
+    },
+    "temp_url_for_get_image": {
+        "count": 6250,
+        "time": 2.1799986362457275
+    },
+    "__init__": {
+        "count": 2679,
+        "time": 1.189002275466919
+    },
+    "iter_directory": {
+        "count": 2679,
+        "time": 0.03299999237060547
+    },
+    "analyze": {
+        "count": 388,
+        "time": 434.5830044746399
+    },
+    "temp_get_ali_conf": {
+        "count": 2679,
+        "time": 1.0289976596832275
+    }
+}{
+    "get_pics": {
+        "count": 2679,
+        "time": 124.3150007724762
+    },
+    "temp_url_for_get_image": {
+        "count": 6250,
+        "time": 2.511003017425537
+    },
+    "__init__": {
+        "count": 2679,
+        "time": 1.6080000400543213
+    },
+    "iter_directory": {
+        "count": 2679,
+        "time": 0.005000114440917969
+    },
+    "temp_get_ali_conf": {
+        "count": 2679,
+        "time": 1.3149986267089844
+    }
+}{
+    "get_pics": {
+        "count": 2679,
+        "time": 129.91799807548523
+    },
+    "area": {
+        "count": 388,
+        "time": 6.412003755569458
+    },
+    "get_team_dict": {
+        "count": 388,
+        "time": 147.17499995231628
+    },
+    "deep_dict": {
+        "count": 2679,
+        "time": 130.0019989013672
+    },
+    "get_config": {
+        "count": 2679,
+        "time": 1.1660027503967285
+    },
+    "iter_directory": {
+        "count": 2679,
+        "time": 0.006999969482421875
+    },
+    "analyze": {
+        "count": 388,
+        "time": 139.93999695777893
+    },
+    "__init__": {
+        "count": 2679,
+        "time": 1.5000054836273193
+    },
+    "temp_url_for_get_image": {
+        "count": 6250,
+        "time": 2.3689935207366943
+    }
+}{
+    "get_pics": {
+        "count": 2679,
+        "time": 163.00699877738953
+    },
+    "area": {
+        "count": 388,
+        "time": 8.541996955871582
+    },
+    "get_team_dict": {
+        "count": 388,
+        "time": 186.0420000553131
+    },
+    "deep_dict": {
+        "count": 2679,
+        "time": 163.08199954032898
+    },
+    "get_config": {
+        "count": 2679,
+        "time": 1.3190009593963623
+    },
+    "iter_directory": {
+        "count": 2679,
+        "time": 0.007000446319580078
+    },
+    "analyze": {
+        "count": 388,
+        "time": 176.40299773216248
+    }
+}{
+    "deep_dict": {
+        "count": 2678,
+        "time": 125.71299958229065
+    },
+    "analyze": {
+        "count": 388,
+        "time": 135.3529977798462
+    },
+    "get_team_dict": {
+        "count": 388,
+        "time": 142.5890007019043
+    },
+    "area": {
+        "count": 388,
+        "time": 6.417002439498901
+    }
+}{
+    "get_team_dict": {
+        "count": 388,
+        "time": 141.34900045394897
+    },
+    "area": {
+        "count": 388,
+        "time": 6.287999391555786
+    },
+    "get_name": {
+        "count": 388,
+        "time": 0.17800021171569824
+    },
+    "location": {
+        "count": 103,
+        "time": 0.5869994163513184
+    },
+    "need_remind": {
+        "count": 0,
+        "time": 0
+    },
+    "analyze": {
+        "count": 388,
+        "time": 134.26000142097473
+    },
+    "find": {
+        "count": 0,
+        "time": 0
+    },
+    "get_weather": {
+        "count": 0,
+        "time": 0
+    },
+    "set_alarm": {
+        "count": 0,
+        "time": 0
+    }
+}
