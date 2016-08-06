@@ -7,3 +7,5 @@
 ## [第一章：50分钟打不开的一个网页](https://github.com/zhengxiaoyao0716/An-experience-for-optimized-Web-project-records/blob/gh-pages/1.md)
 
 ## [第二章：消失的118秒](https://github.com/zhengxiaoyao0716/An-experience-for-optimized-Web-project-records/blob/gh-pages/2.md)
+
+## [第三章：yield与generator](https://github.com/zhengxiaoyao0716/An-experience-for-optimized-Web-project-records/blob/gh-pages/3.md)

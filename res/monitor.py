@@ -19,7 +19,9 @@ def register(func):
     def _wrapper(*args, **kwargs):
         data[func.__name__]['count'] = data[func.__name__]['count'] + 1
         start_time = time.time()
+        print 'a'
         result = func(*args, **kwargs)
+        print 'b'
         data[func.__name__]['time'] = time.time() - start_time + data[func.__name__]['time']
         return result
     return _wrapper
